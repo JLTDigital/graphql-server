@@ -1,0 +1,28 @@
+{
+  "cryptocurrencies": [
+    {
+      "id": "1",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "amount": "100"
+    },
+    {
+      "id": "2",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "amount": "500"
+    },
+    {
+      "id": "3",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "amount": "150"
+    },
+    {
+      "id": "5",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "amount": "75"
+    }
+  ]
+}
